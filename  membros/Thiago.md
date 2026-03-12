@@ -17,3 +17,8 @@ Quero aprender mais sobre programação, desenvolvimento de sistemas e como trab
 ## 💬 Minha frase sobre trabalho em equipe
 
 "Grandes projetos não são feitos por uma pessoa, mas por uma equipe que colabora e aprende junta."
+# 👤 Perfil: [Thiago]
+
+**Função no projeto:** Developer
+**Avatar:** 🧑‍💻 
+**Turma:** Técnico em Desenvolvimento de Sistemas
